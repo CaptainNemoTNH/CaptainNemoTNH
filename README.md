@@ -6,7 +6,7 @@
   <li>👋 I'm Trần Nhĩ Hào aka Henry </li>
   <li>🔭 I’m currently trying my best to start as a FE developer and then from there I'll make some steps to be a Fullstack developer </li>
   <li>⚡ I am fascinated by the world of technology and finance, I will try my best to become a programmer at a bank</li>
-  <li>⚡ I hope that I have a chance to work at ACB, I will try my best to learn and to be a good developer <3</li>
+  <li>⚡ I will try my best to learn and to be a good developer <3</li>
 </ul>
 
 # 💻 Tech Stack:
